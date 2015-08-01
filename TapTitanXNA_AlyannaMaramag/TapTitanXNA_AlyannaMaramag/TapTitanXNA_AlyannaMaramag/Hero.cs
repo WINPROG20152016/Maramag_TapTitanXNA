@@ -98,6 +98,7 @@ namespace TapTitanXNA_AlyannaMaramag
                     if (spritePlayer.Animation.islooping == true)
                     {
                         spritePlayer.PlayAnimation(attackAnimation);
+
                     }
                     count++;
                     timer = 0;
