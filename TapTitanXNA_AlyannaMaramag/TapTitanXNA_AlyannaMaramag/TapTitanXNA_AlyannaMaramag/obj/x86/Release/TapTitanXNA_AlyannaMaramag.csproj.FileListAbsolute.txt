@@ -1,0 +1,8 @@
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Release\Content\HeroSprite\Hero01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Release\Content\Background\BG01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Release\Content\Monster\Monster01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Release\TapTitanXNA_AlyannaMaramag.exe
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Release\TapTitanXNA_AlyannaMaramag.pdb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Release\TapTitanXNA_AlyannaMaramag.exe
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Release\TapTitanXNA_AlyannaMaramag.pdb

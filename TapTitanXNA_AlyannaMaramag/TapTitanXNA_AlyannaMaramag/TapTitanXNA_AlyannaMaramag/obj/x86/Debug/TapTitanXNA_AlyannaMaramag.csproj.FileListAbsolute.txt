@@ -1,0 +1,34 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\TapTitanXNA_AlyannaMaramag.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\TapTitanXNA_AlyannaMaramag.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.csprojResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\HeroSprite\Hero01.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Background\BG01.xnb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Monster\Monster01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\HeroSprite\Hero01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Background\BG01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Monster\Monster01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\TapTitanXNA_AlyannaMaramag.exe
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\TapTitanXNA_AlyannaMaramag.pdb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.exe
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.pdb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\obj\x86\Debug\TapTitanXNA_AlyannaMaramag.csprojResolveAssemblyReference.cache
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally03.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally02.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Alllll.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\HeroSprite\HeroA.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\HeroSprite\HeroI.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally01.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally04.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally1.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\Ally2.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\asd.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Ally\zxc.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Font.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Button\button_a.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Button\buttona.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Button\buttonb.xnb
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\bin\x86\Debug\Content\Monster\Monster02.xnb

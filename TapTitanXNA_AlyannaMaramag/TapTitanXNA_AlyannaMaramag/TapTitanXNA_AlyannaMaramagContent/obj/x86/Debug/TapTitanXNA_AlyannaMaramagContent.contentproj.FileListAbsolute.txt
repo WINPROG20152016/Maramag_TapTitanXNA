@@ -1,0 +1,2 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramagContent\obj\x86\Debug\TapTitanXNA_AlyannaMaramagContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ma.Alyanna\Desktop\WinProg\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramag\TapTitanXNA_AlyannaMaramagContent\obj\x86\Debug\TapTitanXNA_AlyannaMaramagContent.contentprojResolveAssemblyReference.cache
